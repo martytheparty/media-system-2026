@@ -4,9 +4,12 @@
   "description": "\"# media-system-2026\"",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "nggallery": "ng new media-mgr-gallery"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^21.0.4"
+  }
 }
